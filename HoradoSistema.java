@@ -1,8 +1,8 @@
-import java.util.date;
+import java.util.Date;
 
 public class HoradoSistema {
     public static void main(String[] args) {
         System.out.println();
-        date data = new date();
+        Date data = new Date();
     }
 }
